@@ -1,0 +1,22 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Tue Sep 15 23:29:40 2020
+# Process ID: 19452
+# Current directory: D:/program/Vivado/Project/ip_ram/ip_ram_0915
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent10628 D:\program\Vivado\Project\ip_ram\ip_ram_0915\ip_ram.xpr
+# Log file: D:/program/Vivado/Project/ip_ram/ip_ram_0915/vivado.log
+# Journal file: D:/program/Vivado/Project/ip_ram/ip_ram_0915\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/program/Vivado/Project/ip_ram/ip_ram_0915/ip_ram.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+launch_simulation
+launch_simulation
+set_property target_simulator XSim [current_project]
+launch_simulation
+set_property target_simulator ModelSim [current_project]
+launch_simulation
+launch_simulation

@@ -1,0 +1,254 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/program/Vivado/Project/ip_ram/ip_ram/ip_ram.sim/sim_1/behav/modelsim
+vglbl
+Z1 !s110 1600188078
+!i10b 1
+!s100 JWZ^meD<P7inSF0<1SiO32
+IAl?5;D^:bf?I5A^M>WzmU1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/program/Vivado/Project/ip_ram/ip_ram_simple_dual_Mars/ip_ram.sim/sim_1/behav/modelsim
+w1544155481
+8glbl.v
+Fglbl.v
+L0 6
+Z4 OL;L;10.6d;65
+r1
+!s85 0
+31
+Z5 !s108 1600188078.000000
+!s107 glbl.v|
+!s90 -work|xil_defaultlib|glbl.v|
+!i113 1
+Z6 o-work xil_defaultlib -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z7 tCvgOpt 0
+vkara_mult_34bit
+!s10a 1597830733
+Z8 !s110 1599570183
+!i10b 1
+!s100 aOCmE<n[2@PzC_H]::>;>3
+IYkOIaTg6SJ@OnUK[BeNF83
+R2
+R0
+w1597830733
+8../../../../ip_ram.srcs/sources_1/new/kara_mult_34bit.v
+F../../../../ip_ram.srcs/sources_1/new/kara_mult_34bit.v
+Z9 L0 23
+R4
+r1
+!s85 0
+31
+Z10 !s108 1599570183.000000
+Z11 !s107 ../../../../ip_ram.srcs/sources_1/new/karatsuba_top.v|../../../../ip_ram.srcs/sources_1/new/kara_mult_ram_top.v|../../../../ip_ram.srcs/sources_1/new/kara_mult_66bit.v|../../../../ip_ram.srcs/sources_1/new/kara_mult_34bit.v|
+Z12 !s90 -64|-incr|-work|xil_defaultlib|../../../../ip_ram.srcs/sources_1/new/kara_mult_34bit.v|../../../../ip_ram.srcs/sources_1/new/kara_mult_66bit.v|../../../../ip_ram.srcs/sources_1/new/kara_mult_ram_top.v|../../../../ip_ram.srcs/sources_1/new/karatsuba_top.v|
+!i113 1
+R6
+R7
+vkara_mult_66bit
+!s10a 1596681112
+R8
+!i10b 1
+!s100 ;1j_]D6k<]nfJe5Y3clEU1
+Il271357kWVHZPP]NKVf`o0
+R2
+R0
+w1596681112
+8../../../../ip_ram.srcs/sources_1/new/kara_mult_66bit.v
+F../../../../ip_ram.srcs/sources_1/new/kara_mult_66bit.v
+R9
+R4
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 1
+R6
+R7
+vkara_mult_ram_top
+!s10a 1600187413
+!s110 1600187426
+!i10b 1
+!s100 H2mzY2=`B_0063<gW5gVX0
+InCzR5ZS8MP85@nXmbYn8I0
+R2
+dD:/program/Vivado/Project/ip_ram/ip_ram_0915/ip_ram.sim/sim_1/behav/modelsim
+w1600187413
+8../../../../ip_ram.srcs/sources_1/new/kara_mult_ram_top.v
+F../../../../ip_ram.srcs/sources_1/new/kara_mult_ram_top.v
+R9
+R4
+r1
+!s85 0
+31
+!s108 1600187426.000000
+R11
+R12
+!i113 1
+R6
+R7
+vkaratsuba_top
+!s10a 1598928111
+R8
+!i10b 1
+!s100 g1[U01oHUhR@7NIWIJ^:o3
+I37ZzJ<Pj0B_F08[RfYZeH2
+R2
+R0
+w1598928111
+8../../../../ip_ram.srcs/sources_1/new/karatsuba_top.v
+F../../../../ip_ram.srcs/sources_1/new/karatsuba_top.v
+L0 30
+R4
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 1
+R6
+R7
+vmult_ram
+!s10a 1598837047
+!s110 1599570180
+!i10b 1
+!s100 9i];NJV]bWT`gYDbb[7:f3
+IjeT?TaLF<kZJR@fK4Ih=l3
+R2
+R0
+w1598837047
+8../../../../ip_ram.srcs/sources_1/ip/mult_ram/sim/mult_ram.v
+F../../../../ip_ram.srcs/sources_1/ip/mult_ram/sim/mult_ram.v
+Z13 L0 56
+R4
+r1
+!s85 0
+31
+!s108 1599570180.000000
+!s107 ../../../../ip_ram.srcs/sources_1/ip/mult_ram/sim/mult_ram.v|
+!s90 -64|-incr|-work|xil_defaultlib|../../../../ip_ram.srcs/sources_1/ip/mult_ram/sim/mult_ram.v|
+!i113 1
+R6
+R7
+Emult_signed_18bit
+Z14 w1598842573
+Z15 DPx17 mult_gen_v12_0_14 26 mult_gen_v12_0_14_viv_comp 0 22 LoDJeFImKRkcX=XQGO`Qh0
+DEx17 mult_gen_v12_0_14 17 mult_gen_v12_0_14 0 22 :8cc1Sa3HN[cjW]oQ8ijf0
+Z16 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z17 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z18 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R3
+Z19 8../../../../ip_ram.srcs/sources_1/ip/mult_signed_18bit/sim/mult_signed_18bit.vhd
+Z20 F../../../../ip_ram.srcs/sources_1/ip/mult_signed_18bit/sim/mult_signed_18bit.vhd
+l0
+L59
+V<@j?Fnk@z;a1NCR=9bXK81
+!s100 4LW^M>n^]mn99i5OL4Qkl0
+Z21 OL;C;10.6d;65
+31
+R1
+!i10b 1
+R5
+Z22 !s90 -64|-93|-work|xil_defaultlib|../../../../ip_ram.srcs/sources_1/ip/mult_signed_18bit/sim/mult_signed_18bit.vhd|
+Z23 !s107 ../../../../ip_ram.srcs/sources_1/ip/mult_signed_18bit/sim/mult_signed_18bit.vhd|
+!i113 1
+Z24 o-93 -work xil_defaultlib
+Z25 tExplicit 1 CvgOpt 0
+Amult_signed_18bit_arch
+R15
+R16
+R17
+R18
+DEx4 work 17 mult_signed_18bit 0 22 <@j?Fnk@z;a1NCR=9bXK81
+l113
+L68
+VEA=8g8LNL?F^dHbhE88G30
+!s100 L5h0EZb98m[LM609m1@DD3
+R21
+31
+R1
+!i10b 1
+R5
+R22
+R23
+!i113 1
+R24
+R25
+vram_dual
+!s10a 1599568034
+!s110 1599570546
+!i10b 1
+!s100 O=54EUf<RJZW@lW4zY5j21
+I?64?djME>QO8X5c9kobUW2
+R2
+R0
+w1599568034
+8../../../../ip_ram.srcs/sources_1/ip/ram_dual/sim/ram_dual.v
+F../../../../ip_ram.srcs/sources_1/ip/ram_dual/sim/ram_dual.v
+R13
+R4
+r1
+!s85 0
+31
+!s108 1599570546.000000
+!s107 ../../../../ip_ram.srcs/sources_1/new/karatsuba_top.v|../../../../ip_ram.srcs/sources_1/new/kara_mult_ram_top.v|../../../../ip_ram.srcs/sources_1/new/kara_mult_66bit.v|../../../../ip_ram.srcs/sources_1/new/kara_mult_34bit.v|../../../../ip_ram.srcs/sources_1/ip/ram_dual/sim/ram_dual.v|
+!s90 -64|-incr|-work|xil_defaultlib|../../../../ip_ram.srcs/sources_1/ip/ram_dual/sim/ram_dual.v|../../../../ip_ram.srcs/sources_1/new/kara_mult_34bit.v|../../../../ip_ram.srcs/sources_1/new/kara_mult_66bit.v|../../../../ip_ram.srcs/sources_1/new/kara_mult_ram_top.v|../../../../ip_ram.srcs/sources_1/new/karatsuba_top.v|
+!i113 1
+R6
+R7
+vsrl_lut
+!s10a 1599096188
+DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+R8
+!i10b 1
+!s100 W>L9=R1838b_KJUgddhf60
+IBmkcBU]K@aicd1^EQoiUC3
+R2
+!s105 srl_lut_sv_unit
+S1
+R0
+w1599096188
+8../../../../ip_ram.srcs/sources_1/new/srl_lut.sv
+F../../../../ip_ram.srcs/sources_1/new/srl_lut.sv
+L0 34
+R4
+r1
+!s85 0
+31
+R10
+!s107 ../../../../ip_ram.srcs/sources_1/new/srl_lut.sv|
+!s90 -64|-incr|-sv|-work|xil_defaultlib|../../../../ip_ram.srcs/sources_1/new/srl_lut.sv|
+!i113 1
+o-sv -work xil_defaultlib -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R7
+vtb_kara_mult_ram
+!s10a 1599576006
+R8
+!i10b 1
+!s100 [f@b1^WTH4ZFC5No1c6CG3
+ISHYLE51YPI1H_LSPFTL]X0
+R2
+R0
+w1599103692
+8../../../../ip_ram.srcs/sim_1/new/tb_kara_mult_ram.v
+F../../../../ip_ram.srcs/sim_1/new/tb_kara_mult_ram.v
+R9
+R4
+r1
+!s85 0
+31
+R10
+!s107 ../../../../ip_ram.srcs/sim_1/new/tb_kara_mult_ram.v|
+!s90 -64|-incr|-work|xil_defaultlib|../../../../ip_ram.srcs/sim_1/new/tb_kara_mult_ram.v|
+!i113 1
+R6
+R7

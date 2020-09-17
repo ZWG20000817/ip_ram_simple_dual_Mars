@@ -1,0 +1,7 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"tb_ip_ram_time_synth.v" \
+"../../../../../ip_ram.srcs/sim_1/new/tb_ip_ram.v" \
+
+# Do not sort compile order
+nosort

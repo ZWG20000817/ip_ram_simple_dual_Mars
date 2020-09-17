@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Wed May  8 15:47:57 2019
+# Process ID: 7564
+# Current directory: E:/maqiankun/Navigator/Nav_code_7010/8_ip_ram/ip_ram.sim/sim_1/synth/func/xsim
+# Command line: wbtcv.exe -mode batch -source E:/maqiankun/Navigator/Nav_code_7010/8_ip_ram/ip_ram.sim/sim_1/synth/func/xsim/xsim.dir/tb_ip_ram_func_synth/webtalk/xsim_webtalk.tcl -notrace
+# Log file: E:/maqiankun/Navigator/Nav_code_7010/8_ip_ram/ip_ram.sim/sim_1/synth/func/xsim/webtalk.log
+# Journal file: E:/maqiankun/Navigator/Nav_code_7010/8_ip_ram/ip_ram.sim/sim_1/synth/func/xsim\webtalk.jou
+#-----------------------------------------------------------
+source E:/maqiankun/Navigator/Nav_code_7010/8_ip_ram/ip_ram.sim/sim_1/synth/func/xsim/xsim.dir/tb_ip_ram_func_synth/webtalk/xsim_webtalk.tcl -notrace

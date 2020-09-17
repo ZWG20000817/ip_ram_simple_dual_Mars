@@ -1,0 +1,20 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../ip_ram.srcs/sources_1/ip/mult_ram/sim/mult_ram.v" \
+"../../../../ip_ram.srcs/sources_1/ip/ram_dual/sim/ram_dual.v" \
+"../../../../ip_ram.srcs/sources_1/new/kara_mult_34bit.v" \
+"../../../../ip_ram.srcs/sources_1/new/kara_mult_66bit.v" \
+"../../../../ip_ram.srcs/sources_1/new/kara_mult_ram_top.v" \
+"../../../../ip_ram.srcs/sources_1/new/karatsuba_top.v" \
+
+sv xil_defaultlib  \
+"../../../../ip_ram.srcs/sources_1/new/srl_lut.sv" \
+
+verilog xil_defaultlib  \
+"../../../../ip_ram.srcs/sim_1/new/tb_kara_mult_ram.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

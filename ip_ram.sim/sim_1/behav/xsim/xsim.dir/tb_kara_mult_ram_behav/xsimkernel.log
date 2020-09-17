@@ -1,0 +1,7 @@
+Running: xsim.dir/tb_kara_mult_ram_behav/xsimk.exe -simmode gui -wdb tb_kara_mult_ram_behav.wdb -simrunnum 0 -socket 1992
+Design successfully loaded
+Design Loading Memory Usage: 12480 KB (Peak: 12480 KB)
+Design Loading CPU Usage: 46 ms
+Simulation completed
+Simulation Memory Usage: 15576 KB (Peak: 15576 KB)
+Simulation CPU Usage: 3406 ms

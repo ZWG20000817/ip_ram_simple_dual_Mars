@@ -1,0 +1,23 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Mon Sep 14 11:26:27 2020
+# Process ID: 14680
+# Current directory: D:/program/Vivado/Project/ip_ram/ip_ram_0908
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent6888 D:\program\Vivado\Project\ip_ram\ip_ram_0908\ip_ram.xpr
+# Log file: D:/program/Vivado/Project/ip_ram/ip_ram_0908/vivado.log
+# Journal file: D:/program/Vivado/Project/ip_ram/ip_ram_0908\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/program/Vivado/Project/ip_ram/ip_ram_0908/ip_ram.xpr
+CRITICAL WARNING: [Project 1-19] Could not find the file 'D:/program/Vivado/Project/Nav_code_7010__PL/8_ip_ram/tb_ip_ram_behav.wcfg'.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/program/Vivado/Vivado/2018.3/data/ip'.
+open_project: Time (s): cpu = 00:00:16 ; elapsed = 00:00:07 . Memory (MB): peak = 750.676 ; gain = 136.914
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Mon Sep 14 12:11:23 2020...

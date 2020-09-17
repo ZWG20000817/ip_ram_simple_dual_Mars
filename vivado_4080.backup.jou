@@ -1,0 +1,38 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Tue Sep  8 21:47:16 2020
+# Process ID: 4080
+# Current directory: D:/program/Vivado/Project/ip_ram/ip_ram
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent15984 D:\program\Vivado\Project\ip_ram\ip_ram\ip_ram.xpr
+# Log file: D:/program/Vivado/Project/ip_ram/ip_ram/vivado.log
+# Journal file: D:/program/Vivado/Project/ip_ram/ip_ram\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/program/Vivado/Project/ip_ram/ip_ram/ip_ram.xpr
+update_compile_order -fileset sources_1
+set_property -name {modelsim.simulate.log_all_signals} -value {true} -objects [get_filesets sim_1]
+launch_simulation -install_path D:/program/ModelSim/win64
+launch_simulation -install_path D:/program/ModelSim/win64
+set_property -name {modelsim.simulate.runtime} -value {6000ns} -objects [get_filesets sim_1]
+launch_simulation -install_path D:/program/ModelSim/win64
+launch_simulation -install_path D:/program/ModelSim/win64
+launch_simulation -install_path D:/program/ModelSim/win64
+launch_simulation -install_path D:/program/ModelSim/win64
+launch_simulation -install_path D:/program/ModelSim/win64
+launch_simulation -install_path D:/program/ModelSim/win64
+launch_simulation -install_path D:/program/ModelSim/win64
+launch_simulation -install_path D:/program/ModelSim/win64
+launch_simulation -install_path D:/program/ModelSim/win64
+launch_simulation -install_path D:/program/ModelSim/win64
+launch_simulation -install_path D:/program/ModelSim/win64
+launch_simulation -install_path D:/program/ModelSim/win64
+launch_simulation -install_path D:/program/ModelSim/win64
+launch_simulation -install_path D:/program/ModelSim/win64
+launch_simulation -install_path D:/program/ModelSim/win64
+launch_simulation -install_path D:/program/ModelSim/win64
+launch_simulation -install_path D:/program/ModelSim/win64
+launch_simulation -install_path D:/program/ModelSim/win64
+launch_simulation -install_path D:/program/ModelSim/win64
+launch_simulation -install_path D:/program/ModelSim/win64
